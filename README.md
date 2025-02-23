@@ -17,6 +17,7 @@ This project analyzes a Airbnb dataset for Europe, originally sourced from Kaggl
 **Key Features:**
 - **SQL Analysis:**  
   The `Airbnb.sql` file contains queries and data manipulation routines to analyze various aspects of the dataset.
+  The `Airbnb upd.sql` file contains more queries and data manipulation routines to analyze various aspects of the dataset.
   
 - **Tableau Dashboard:**  
   Explore insights visually with the Tableau dashboard file:
@@ -78,6 +79,7 @@ This project analyzes a Airbnb dataset for Europe, originally sourced from Kaggl
 ```
 Airbnb-Europe/
 ├── Airbnb.sql                  # SQL analysis script
+├── Airbnb upd.sql              # SQL analysis script
 ├── Airbnb-Europe-Dataset.csv   # Dataset in CSV format
 ├── Airbnb-dataset.json         # Dataset in JSON format
 ├── Airbnb Europe.twb           # Tableau Workbook for dashboard
